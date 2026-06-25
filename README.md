@@ -4,7 +4,7 @@ Computer Science Student | Full-Stack Web Developer (Laravel & PostgreSQL)
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I am a Computer Science student focused on building practical, real-world web applications with clean backend architecture and structured database systems.
 
@@ -16,7 +16,7 @@ I enjoy solving real problems through software engineering, especially in:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -38,7 +38,7 @@ I enjoy solving real problems through software engineering, especially in:
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
 ### 🍽️ UniEats — University Food Ordering System
 
@@ -57,7 +57,7 @@ A full-stack Laravel application built to digitize and manage food ordering in a
 
 ---
 
-## 🎯 Focus Areas
+##  Focus Areas
 
 - Backend Development (Laravel)
 - Database Design (PostgreSQL)
@@ -66,7 +66,7 @@ A full-stack Laravel application built to digitize and manage food ordering in a
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barkatshaaban&show_icons=true&theme=default)
 
@@ -74,7 +74,7 @@ A full-stack Laravel application built to digitize and manage food ordering in a
 
 ---
 
-## 📫 Contact
+##  Contact
 
 GitHub: https://github.com/barkatshaaban
 
